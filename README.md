@@ -18,9 +18,9 @@
 
 ### `> whoami`
 
-Final-year **Statistics student** at the University of Abuja, turning raw data into rigorous, interpretable insights. I work primarily in **base R**, applying inferential statistics, time series modeling, and stochastic processes to real-world Nigerian datasets.
+Final year **Statistics student** at the University of Abuja, turning raw data into rigorous, interpretable insights. I work primarily in **base R**, applying inferential statistics, time series modeling, and stochastic processes to real-world Nigerian datasets.
 
-My final year project analyzes **job creation and separation dynamics** across Nigerian businesses using the 2024 NBS Job Creation Survey — one of Nigeria's most comprehensive labour market datasets.
+My final year project analyzes **job creation and separation dynamics** across Nigerian businesses using the 2024 NBS Job Creation Survey one of Nigeria's most comprehensive labour market datasets.
 
 ---
 

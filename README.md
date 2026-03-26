@@ -31,10 +31,10 @@ That usually means:
 ## Featured work
 
 ### BaseCred
-Onchain social credibility scoring for Farcaster and Base. Built to be transparent, composable, and shareable. 1
+Onchain social credibility scoring for Farcaster and Base. Built to be transparent, composable, and shareable. 
 
 ### Portfolio
-My personal site and portfolio on GitHub Pages. It brings together my statistics work, project work, and a few things I have shipped along the way. 2
+My personal site and portfolio on GitHub Pages. It brings together my statistics work, project work, and a few things I have shipped along the way. 
 
 ### NaijaMetrics
 A Nigerian economic dashboard focused on making public data easier to read. It is built around clean presentation, live readings, and a more human way of looking at macro data.
@@ -53,16 +53,16 @@ Right now I am spending more time on:
 
 ## A bit more about me
 
-Final year statistics student at the University of Abuja. 3
+Final year statistics student at the University of Abuja. 
 
-Based in Abuja, Nigeria. 4
+Based in Abuja, Nigeria. 
 
 ---
 
 ## Find me here
 
-Portfolio: amananalytics.is-a.dev 5  
-X: @0xAman_ 6
+Portfolio: amananalytics.is-a.dev  
+X: @0xAman_ 
 
 ---
 

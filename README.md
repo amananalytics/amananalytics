@@ -1,41 +1,69 @@
-<div align="center">
-
 # Abdulrahman Sanni
 
-**stats × web3 builder and creator**
+stats × web3 builder and creator
 
-[![Portfolio](https://img.shields.io/badge/portfolio-amananalytics.is--a.dev-CCFF00?style=flat-square&labelColor=0E0D09)](https://amananalytics.is-a.dev)
-[![Farcaster](https://img.shields.io/badge/farcaster-amaan056-8B5CF6?style=flat-square&labelColor=0E0D09)](https://warpcast.com/amaan056)
-[![Twitter](https://img.shields.io/badge/twitter-0xAman__-1DA1F2?style=flat-square&labelColor=0E0D09)](https://twitter.com/0xAman_)
+I build data tools, clean dashboards, and onchain products that are easy to read and easy to use.
 
-</div>
+I care about work that feels useful first. Clear first. Then polished.
 
 ---
 
-building **[BaseCred](https://basecred-phi.vercel.app)** — onchain credibility scoring for Farcaster & Base
+## What I work with
 
-final year statistics student @ University of Abuja
----
-
-### what i work with
-
-```
-languages   R · Python · JavaScript
-stats       time series · regression · stochastic processes · ANOVA
-web3        Base · Farcaster · OnchainKit · Next.js · Solidity
-```
+R · Python · (sometimes) JavaScript  
+Time series · regression · stochastic processes · ANOVA  
+Base · Farcaster · OnchainKit · Next.js · Solidity
 
 ---
 
-### shipped
+## What I build
 
-| project | what | stack |
-|---|---|---|
-| [BaseCred](https://basecred-phi.vercel.app) | onchain credibility scoring for Farcaster | Next.js · Neynar · Base |
-| [Portfolio](https://amananalytics.is-a.dev) | personal site | HTML · CSS · GitHub Pages |
+I like projects that sit somewhere between analysis and product.
+
+That usually means:
+- turning data into something people can actually use
+- making dashboards feel simple instead of crowded
+- building web3 products that explain themselves
+- shipping things that work well and still look good
 
 ---
 
-<div align="center">
-<sub>Abuja, Nigeria · 2026</sub>
-</div>
+## Featured work
+
+### BaseCred
+Onchain social credibility scoring for Farcaster and Base. Built to be transparent, composable, and shareable. 1
+
+### Portfolio
+My personal site and portfolio on GitHub Pages. It brings together my statistics work, project work, and a few things I have shipped along the way. 2
+
+### NaijaMetrics
+A Nigerian economic dashboard focused on making public data easier to read. It is built around clean presentation, live readings, and a more human way of looking at macro data.
+
+---
+
+## Current focus
+
+Right now I am spending more time on:
+- data analysis projects
+- public dashboards
+- practical web3 tools
+- products that feel simple on the surface and solid underneath
+
+---
+
+## A bit more about me
+
+Final year statistics student at the University of Abuja. 3
+
+Based in Abuja, Nigeria. 4
+
+---
+
+## Find me here
+
+Portfolio: amananalytics.is-a.dev 5  
+X: @0xAman_ 6
+
+---
+
+If you want to collaborate, build, or just talk ideas, reach out.
